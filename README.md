@@ -1,4 +1,9 @@
-# C-sharp_study
+C-sharp_study
+========================
 
-비주얼프로그래밍 수업 공부
+C# study
 ------------------------
+
+1. C# based
+
+2. C# structure
