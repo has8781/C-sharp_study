@@ -1,0 +1,8 @@
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼\과제\chapter01\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
