@@ -4,6 +4,8 @@ C-sharp_study
 C# study
 ------------------------
 
-1. C# based
+1. chapter01
+C# based
 
-2. C# structure
+2. chapter02
+C# structure
