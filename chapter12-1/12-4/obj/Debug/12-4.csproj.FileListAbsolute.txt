@@ -1,8 +1,0 @@
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\bin\Debug\12-4.exe.config
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\bin\Debug\12-4.exe
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\bin\Debug\12-4.pdb
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\obj\Debug\12-4.csproj.AssemblyReference.cache
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\obj\Debug\12-4.csproj.SuggestedBindingRedirects.cache
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\obj\Debug\12-4.csproj.CoreCompileInputs.cache
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\obj\Debug\12-4.exe
-C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\1121\12-4\obj\Debug\12-4.pdb
