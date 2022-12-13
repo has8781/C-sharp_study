@@ -1,0 +1,22 @@
+C:\Users\deu\Desktop\1130\5\bin\Debug\5.exe.config
+C:\Users\deu\Desktop\1130\5\bin\Debug\5.exe
+C:\Users\deu\Desktop\1130\5\bin\Debug\5.pdb
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+C:\Users\deu\Desktop\1130\5\obj\Debug\_5.Form1.resources
+C:\Users\deu\Desktop\1130\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.exe
+C:\Users\deu\Desktop\1130\5\obj\Debug\5.pdb
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\bin\Debug\5.exe.config
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\bin\Debug\5.exe
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\bin\Debug\5.pdb
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.csproj.SuggestedBindingRedirects.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\_5.Form1.resources
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.exe
+C:\Users\손현아\Desktop\학교\2학년 2학기\비주얼 프로그래밍\예제\chapter10\5\obj\Debug\5.pdb
