@@ -1,0 +1,11 @@
+C:\Users\손현아\Desktop\비주얼\chapter07\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\손현아\Desktop\비주얼\chapter07\bin\Debug\WindowsFormsApp2.exe
+C:\Users\손현아\Desktop\비주얼\chapter07\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\7-6.csproj.AssemblyReference.cache
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\7-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\7-6.csproj.GenerateResource.cache
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\7-6.csproj.CoreCompileInputs.cache
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\WindowsFormsApp2.exe
+C:\Users\손현아\Desktop\비주얼\chapter07\obj\Debug\WindowsFormsApp2.pdb
